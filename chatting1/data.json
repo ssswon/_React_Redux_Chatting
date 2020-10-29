@@ -1,0 +1,17 @@
+{
+  "chatLogs": [
+    {
+      "msg": "json-server1"
+    },
+    {
+      "msg": "json-server2"
+    },
+    {
+      "msg": "json-server3"
+    },
+    {
+      "msg": "json-server4"
+    }
+    
+  ]
+}
